@@ -25,11 +25,11 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
         // 2. Instanciamos la Lista y agregamos elementos
         estudiantes = new ArrayList<>();
-        estudiantes.add("Rakauscas");
-        estudiantes.add("Prado");
-        estudiantes.add("Baldeon");
-        estudiantes.add("Vargas");
-        estudiantes.add("Venturi");
+        estudiantes.add("Ramon");
+        estudiantes.add("LUQUE");
+        estudiantes.add("Urbi");
+        estudiantes.add("Navarro");
+        estudiantes.add("Sahuma");
         estudiantes.add("...");
 
         // 3. Definir el Adaptador
